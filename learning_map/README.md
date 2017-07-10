@@ -1,6 +1,6 @@
 ## Part I
   * [What are bots?](part1/what-are-bots.md)
-  * How do bots work?
+  * [How do bots work?](part1/how-do-bots-work.md)
   * Getting started 101
 
     * Creating a page
