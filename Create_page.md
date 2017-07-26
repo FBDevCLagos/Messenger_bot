@@ -4,7 +4,7 @@ The very first simple step to take when building your bot is to create a faceboo
 ![First Step](https://www.wholesaleclearance.co.uk/blog/wp-content/uploads/2015/07/Facebook5.jpg)
 
 ### To Begin:
-1. Go to [facebook.com/pages/create](https://www.facebook.com/pages/create?).
+1. Go to [facebook.com/pages/create](https://www.facebook.com/pages/create?refid=69).
 2. Enter a Page Name and select a category (Preferably software/app category).
 3. Click **Get Started** and follow the on-screen instructions. You may need to select a subcategory to continue.
 For more details; [Click Here.](https://m.facebook.com/help/104002523024878?helpref=about_content)
