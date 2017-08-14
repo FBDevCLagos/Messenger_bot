@@ -1,6 +1,7 @@
 # CREATING A FACEBOOK APP
 The second step to take when creating your bot is to create a facebook app, in this case, on the facebook messenger platform.
 ![The Messenger Platform for Bots](http://grovebankonline.com/wp-content/uploads/2017/03/Messenger-bot.jpg)
+
 To do this, you need to:
 * Create or go to your facebook developer account at [developers.facebook.com.](https://developers.facebook.com)
 * Create a new facebook app.
