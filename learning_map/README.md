@@ -3,10 +3,10 @@
   * [How do bots work?](part1/how-do-bots-work.md)
   * Getting started 101
 
-    * Creating a page
-    * Creating a Facebook app
-    * Setting up a webhook
-    * Getting your Page access token
+    * How to create a Facebook page(part1/how-to-create-facebook-app.md)
+    * How to create a Facebook app(part1/how-to-create-facebook-app.md)
+    * How to set up a webhook
+    * How to get your Page access token
     * Testing it out
 
 ## Part II
