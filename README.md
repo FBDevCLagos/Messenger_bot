@@ -1,7 +1,7 @@
 # Bot For Messenger Learning Map
 This project contains resources and examples that would lead to a mastery of the Facebook Bot for Messenger platform. It's an aggregation of the learning efforts of the Facebook Developer Circle Lagos led by the bot ambassadors to provide a step by step introduction to the offerings of the platform.
 
-_** Note: ** The contents of this repo does not in any way represent Facebook's official documentation for the messenger platform neither does it serve to replace it._
+_**Note:** The contents of this repo does not in any way represent Facebook's official documentation for the messenger platform neither does it serve to replace it._
 
 ## Overview
 Messenger bots, since their launch in April 2016, have grown to an exciting ecosystem featuring over 30,000 strong bots. Businesses, Developers have kept finding creative ways of building engaging user experiences on the platform. From productivity & utility through social good to gaming and entertainment, various aspects of the society have different offerings available on the messenger platform. To get a sense of activities on the platform, check out this [list of over 1000 bot submissions](https://messengerchallengefinalists.splashthat.com/) for just concluded [Middle East and Africa Bots for Messenger Challenge!](https://messengerchallenge.splashthat.com/)

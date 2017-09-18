@@ -5,7 +5,7 @@
 
     * How to create a Facebook page(part1/how-to-create-facebook-app.md)
     * How to create a Facebook app(part1/how-to-create-facebook-app.md)
-    * How to set up a webhook
+    * How to set up a webhook(part1/how-to-setup-a-webhook.md)
     * How to get your Page access token
     * Testing it out
 
