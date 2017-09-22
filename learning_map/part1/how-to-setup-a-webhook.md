@@ -19,7 +19,7 @@ Of the three main pieces that make up a bot, the webhook url connects the two pi
 
 ## Setting up a webhook
 
-To ensure that a webhook is validily yours, Facebook requires that any webhook you supply pass a verification process. For the verification, Facebook sends a predefined verify token in a request to the supplied webhook url, the server at the webhook backend is expected to listen for the request from Facebook, check that the request contains the predefined verify token and then respond with a challenge value that would be part of the request.
+For security reasonses, Facebook requires that any webhook you supply pass a verification process. For the verification, Facebook sends a predefined verify token in a request to the supplied webhook url, the server at the webhook backend is expected to listen for the request from Facebook, check that the request contains the predefined verify token and then respond with a challenge value that would be part of the request.
 
 Sample validation request payload
 ```json
